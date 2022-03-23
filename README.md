@@ -5,21 +5,19 @@
 - 👯 I’m looking to collaborate with people who have passion to grow themselves consistently
 - 🤔 I’m looking for help with finding people who are into journey towards freedom
 - 💬 Ask me about life, Flutter, design, philosophy and tactics do better at life
+- 
 - 📫 How to reach me: 
-   - UPWORK: https://www.upwork.com/o/profiles/users/~01b9c18e2c3d596e49/
-   - Linked In: http://linkedin.com/in/yash-renwa
-   - Fiverr: https://www.fiverr.com/share/1WN8Y4
+   - Linked In: http://linkedin.com/in/nihal-puram
    - Podcast: https://open.spotify.com/show/5sNimonnMrUwVBoCS29IOO
-   - Resume: https://resume.io/r/tDSXIxkJ8
-   - Youtube: https://www.youtube.com/channel/UCprKqZIIwFZY9-xrqJFbXmQ
-   - Instagram: https://www.instagram.com/yash_renwa/
+   - Youtube: https://www.youtube.com/channel/UCoqVb7s4wHC1cu-NR-MBgiA
+   - Instagram: https://www.instagram.com/realnihal16/
 
 
 # My Skills
 
- - Java is my favorite.
+ - Python is my favourite!
  - Flutter App Developer
- - Upwork and Fiverr Freelancer
+ - Deep Learning Enthusiast
 
 ##
 
