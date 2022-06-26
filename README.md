@@ -4,7 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@nihalpuram)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.nihalpuram.ml/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Developer;Tech+Blogger;Machine+/Deep+Learning+enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Developer;Tech+Blogger;Deep+Learning+enthusiast;)](https://git.io/typing-svg)
 
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
 * 💻 I'm currently working at <a href="https://www.electroshoe.com">Electroshoe</a> 
